@@ -27,36 +27,39 @@ Los protocolos de Internet conjunto de reglas y convenciones que gobiernan la co
 
 
 ##### Protocolos utilizados para el acceso internet
-**TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet):**
-TCP/IP es el conjunto de protocolos fundamentales para la comunicación en Internet. Se compone de varios protocolos, incluyendo IP (Protocolo de Internet), que maneja la identificación y ubicación de dispositivos en la red, y TCP (Protocolo de Control de Transmisión), que garantiza la entrega
-confiable de datos.
 
-**HTTP (Protocolo de Transferencia de Hipertexto):**
-HTTP es el protocolo utilizado para la transferencia de información en la World Wide Web. Es el protocolo fundamental para la comunicación entre navegadores web y servidores web, permitiendo la recuperación de documentos, imágenes y otros recursos.
-
-
-**HTTPS (Protocolo Seguro de Transferencia de Hipertexto):**
-HTTPS es una versión segura de HTTP que utiliza el protocolo TLS/SSL para cifrar la comunicación entre el navegador y el servidor. Se utiliza especialmente en transacciones en línea y para proteger la privacidad de los usuarios.
-
-**DNS (Sistema de Nombres de Dominio):**
-DNS se encarga de traducir los nombres de dominio legibles por humanos, como http://www.ejemplo.com, en direcciones IP numéricas que las computadoras utilizan para identificar servidores en la red.
-
-
-**FTP (Protocolo de Transferencia de Archivos):**
-FTP es utilizado para transferir archivos entre un cliente y un servidor en una red. Permite subir y descargar archivos de un servidor.
-
-**SMTP (Protocolo Simple de Transferencia de Correo):**
-SMTP se utiliza para enviar correos electrónicos desde un cliente de correo electrónico a un servidor de correo electrónico, y también entre servidores de correo electrónico.
-
-**POP3 (Protocolo de Oficina de Correo, versión 3):**
-POP3 permite la descarga de correos electrónicos desde un servidor a un cliente de correo electrónico, donde se almacenan localmente.
-
-
-**IMAP (Protocolo de Acceso a Mensajes de Internet):**
-IMAP es otro protocolo de correo electrónico que permite a los usuarios acceder y gestionar sus correos electrónicos directamente en el servidor, manteniendo una sincronización entre el servidor y el cliente.
-
-**DHCP (Protocolo de Configuración Dinámica de Host):**
-DHCP se utiliza para asignar direcciones IP de forma dinámica a dispositivos en una red, simplificando la administración de direcciones IP en una red.
+> **TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet):**
+> TCP/IP es el conjunto de protocolos fundamentales para la comunicación en Internet. Se compone de varios protocolos, incluyendo IP (Protocolo de Internet), que > > maneja la identificación y ubicación de dispositivos en la red, y TCP (Protocolo de Control de Transmisión), que garantiza la entrega
+>confiable de datos.
+>
+> **HTTP (Protocolo de Transferencia de Hipertexto):**
+> HTTP es el protocolo utilizado para la transferencia de información en la World Wide Web. Es el protocolo fundamental para la comunicación entre navegadores web y > servidores web, permitiendo la recuperación de documentos, imágenes y otros recursos.
+>
+> **HTTPS (Protocolo Seguro de Transferencia de Hipertexto):**
+>HTTPS es una versión segura de HTTP que utiliza el protocolo TLS/SSL para cifrar la comunicación entre el navegador y el servidor. Se utiliza especialmente 
+> en transacciones en línea y para proteger la privacidad de los usuarios.
+>
+> **DNS (Sistema de Nombres de Dominio):**
+> DNS se encarga de traducir los nombres de dominio legibles por humanos, como http://www.ejemplo.com, en direcciones IP numéricas que las computadoras 
+> utilizan para identificar servidores en la red.
+>
+> **FTP (Protocolo de Transferencia de Archivos):**
+> FTP es utilizado para transferir archivos entre un cliente y un servidor en una red. Permite subir y descargar archivos de un servidor.
+> 
+> **SMTP (Protocolo Simple de Transferencia de Correo):**
+> SMTP se utiliza para enviar correos electrónicos desde un cliente de correo electrónico a un servidor de correo electrónico, 
+> y también entre servidores de correo electrónico.
+>
+>**POP3 (Protocolo de Oficina de Correo, versión 3):**
+>POP3 permite la descarga de correos electrónicos desde un servidor a un cliente de correo electrónico, donde se almacenan localmente.
+>
+> **IMAP (Protocolo de Acceso a Mensajes de Internet):**
+> IMAP es otro protocolo de correo electrónico que permite a los usuarios acceder y 
+> gestionar sus correos electrónicos directamente en el servidor, manteniendo una sincronización entre el servidor y el cliente.
+>
+> **DHCP (Protocolo de Configuración Dinámica de Host):**
+> DHCP se utiliza para asignar direcciones IP de forma dinámica a dispositivos en una red, 
+> simplificando la administración de direcciones IP en una red.
 
 ### 4.3. Servicios de Internet
 
@@ -103,23 +106,28 @@ Para ello se sigue un proceso complejo de varias etapas:
 Existen diferentes tipos de buscadores según su enfoque y propósito.
 Se presentan los buscadores más populares:
 
-**Motores de búsqueda más populares**
-**Motores de búsqueda generalizados:**
-Estos motores de búsqueda exploran y indexan una amplia variedad de contenido en la web, incluyendo páginas web, imágenes, videos, documentos y más. Son utilizados para búsquedas generales en internet.Ejemplo:Google, Bing, Yahoo.
-**Motores de búsqueda especializados:**
-Se centran en un tema específico o tipo de contenido.
-Estos buscadores están diseñados para proporcionar resultados más precisos y relevantes dentro de un dominio temático particular.Ejemplo:Wolfram Alpha (matemáticas y ciencia), PubMed (ciencias médicas).
-
-**Motores de búsqueda de compras:**
-Están diseñados para ayudar a los usuarios a encontrar productos para comprar en línea. Permiten comparar precios, leer reseñas y acceder a información detallada sobre productos.Ejemplo:Google Shopping, Amazon.
-
-
-**Motores de búsqueda social:**
-Buscan contenido específico dentro de plataformas sociales.
-Ayudan a encontrar perfiles, publicaciones, imágenes y otros contenidos relacionados con temas de interés en redes sociales.Ejemplo:Facebook Search, Twitter Search.
-
-**Motores de búsqueda de imágenes:**
-Permiten a los usuarios buscar imágenes en línea. Utilizan algoritmos de reconocimiento de imágenes para encontrar visualmente contenido similar.
-Ejemplo:Google Images, Bing Imágenes.
+> **Motores de búsqueda generalizados:**
+> Estos motores de búsqueda exploran y indexan una amplia variedad de contenido en la web, 
+> incluyendo páginas web, imágenes, videos, documentos y más. Son utilizados para búsquedas 
+> generales en internet. **Ejemplo:** Google, Bing, Yahoo.
+>
+> **Motores de búsqueda especializados:**
+> Se centran en un tema específico o tipo de contenido.
+> Estos buscadores están diseñados para proporcionar resultados más precisos y 
+> relevantes dentro de un dominio temático particular. **Ejemplo:** Wolfram Alpha (matemáticas y ciencia), PubMed (ciencias médicas).
+>
+> **Motores de búsqueda de compras:**
+> Están diseñados para ayudar a los usuarios a encontrar productos para comprar en línea. 
+> Permiten comparar precios, leer reseñas y acceder a información detallada sobre productos. **Ejemplo:** Google Shopping, Amazon.
+>
+> **Motores de búsqueda social:**
+> Buscan contenido específico dentro de plataformas sociales. 
+> Ayudan a encontrar perfiles, publicaciones, imágenes y otros contenidos relacionados 
+> con temas de interés en redes sociales. **Ejemplo:** Facebook Search, Twitter Search.
+>
+> **Motores de búsqueda de imágenes:**
+> Permiten a los usuarios buscar imágenes en línea. Utilizan algoritmos de reconocimiento 
+> de imágenes para encontrar visualmente contenido similar.
+> **Ejemplo:** Google Images, Bing Imágenes.
 
 

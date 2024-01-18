@@ -1,8 +1,8 @@
 # Anotaciones de Informática
 Compendio desarrollado de las unidad 1 al 6 de la asignatura Informática, acorde al programa de estudios para el cursillo de ingreso a la carrera Análisis de Sistemas de la Facultad de Ciencias y Tecnología (FACITEC). 
 
-## Índice de Contenido
-```{toctree} 
+```{toctree}
+:caption: Índice de Contenidos
 :maxdepth: 3
 chapter1.md
 chapter2.md
